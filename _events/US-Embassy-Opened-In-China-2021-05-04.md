@@ -28,9 +28,9 @@ The current plan is to collect as many cases as possible as litigation materials
 
 To this end, we ask everyone to fill in and forward our questionnaire: [https://wj.qq.com/s2/8404966/e1ab/](https://wj.qq.com/s2/8404966/e1ab/ )
 
-只要表示出资意愿，您即成为有效的诉讼成员。人越多，均摊下来的律师费越少。
+只要表示出资意愿，您即有资格成为有效的诉讼成员。人越多，均摊下来的律师费越少。
 
-As long as you express your willingness to contribute fund, you will become an effective litigation member. The more people there are, the less fees will be shared equally.
+As long as you express your willingness to contribute fund, you will be eligible to become an effective litigation member. The more people there are, the less fees will be shared equally.
 
 **求支持求转发！**
 
