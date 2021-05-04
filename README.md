@@ -2,27 +2,28 @@
 
 Public website for the Call for Revoking US Presidential Proclamation 10043
 
-## How to add a language
+## How to add a story
 
-Add the language in `_config.yml`:
+All stories are stored in [https://github.com/Xivid/10043/tree/main/_stories](https://github.com/Xivid/10043/tree/main/_stories).
 
-```
-available_languages: [ en, zh ]
-```
-
-Add translations for the language in the `data/translations` files:
+To add a story, please create a markdown file in both the English (/en) and the Chinese (/zh) folders. For example, go to [here](https://github.com/Xivid/10043/new/main/_stories/zh) to create the Chinese version markdown file, name it something like "4.md", and put in the content:
 
 ```
-lang:
-  en: English
-  zh: 中文
-menu:
-  home:
-    en: Home
-    zh: 主页
+---
+title: "这里写标题，不要忘记两边的英文双引号"
+subtitle: "这里写副标题，不要忘记两边的英文双引号"
+---
+
+这里写具体内容
+```
+Then go to [here](https://github.com/Xivid/10043/new/main/_stories/en) to create the English version markdown file, use the same name as the Chinese one (`4.md` in this case), and put in the content:
+```
+---
+title: "Write the title here, don't miss the quotation mark"
+subtitle: "Write the subtitle here, don't miss the quotation mark"
+---
+
+(Write the content here)
 ```
 
-Duplicate `_pages/en` content in `_pages/$language_code` and translate its content.
-Change all `permalink` attributes in front matters.
-
-Create assets `assets/images/logo-circle-$language_code.png`, `assets/images/full-logo-$language_code.png` and `assets/images/logo-title-$language_code.png` for the new language.
+When writing the markdown, make sure to follow the same format as shown above. Otherwise the website build might fail!
