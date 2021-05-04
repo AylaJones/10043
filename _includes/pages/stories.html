@@ -15,53 +15,33 @@
   </div>
 </section>
 
-{% for number in (1..3) %}
-{% capture story_id %}story-{{ number }}{% endcapture %}
+{% assign stories = site.stories | where: 'lang', page.lang %}
+{% for story in stories %}
 <section class="section is-medium bg-blue-800 story" id="story-{{ number }}">
   <div class="container">
     <div class="index is-hidden-touch">
       <span class="index__prefix">{{ site.data.translations.stories.story[page.lang] }}</span>
-      <span class="index__number">{{ number }}</span>
+      <span class="index__number">{{ forloop.index }}</span>
     </div>
     <div class="columns">
       <div class="column is-offset-3-desktop is-7-desktop">
-        <h4 class="index-mobile title is-4 is-hidden-desktop">{{ site.data.translations.stories.story[page.lang] }}&nbsp;{{ number }}</h4>
+        <h4 class="index-mobile title is-4 is-hidden-desktop">{{ site.data.translations.stories.story[page.lang] }}&nbsp;{{ forloop.index }}</h4>
         <h2 class="title is-2 is-spaced">
-          {{ site.data.translations.stories[story_id].short[page.lang] }}
+          {{ story.title }}
         </h2>
         <h3 class="subtitle is-4">
-          {{ site.data.translations.stories[story_id].full[page.lang] }}
+          {{ story.subtitle }}
         </h3>
       </div>
     </div>
   </div>
 </section>
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 <section class="section is-medium bg-blue-200 case-study">
   <div class="container">
     <div class="columns">
-      {% assign image_path = '' %}
-      {% for image in site.static_files %}
-        {% capture image_path_jpg %}/assets/images/case-studies/story-{{ number }}.jpg{% endcapture %}
-        {% capture image_path_png %}/assets/images/case-studies/story-{{ number }}.png{% endcapture %}
-        {% if image.path contains image_path_jpg %}
-          {% assign image_path = image_path_jpg %}
-        {% elsif image.path contains image_path_png %}
-          {% assign image_path = image_path_png %}
-        {% endif %}
-      {% endfor %}
-
       <div class="column content">
-        {% capture case_study %}{% include pages/texts/{{ page.lang }}/case-studies/story-{{ number }}.md %}{% endcapture %}
-        {{ case_study | markdownify }}
+        {{ story.content | markdownify }}
       </div>
-      {% if image_path != '' %}
-      <div class="column is-5">
-        <div class="duotone">
-          <img alt="" src="{{ image_path | relative_url }}" />
-        </div>
-      </div>
-      {% endif %}
     </div>
   </div>
 </section>

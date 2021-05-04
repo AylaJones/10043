@@ -22,6 +22,7 @@ collections:
   events:
     output: true
   supporters:
+  stories:
 
 defaults:
   - scope:
@@ -49,7 +50,14 @@ defaults:
       path: _pages/zh/by-email
     values:
       layout: by-email
-
+  - scope:
+      path: _stories/en
+    values:
+      lang: en
+  - scope:
+      path: _stories/zh
+    values:
+      lang: zh
 sass:
   style: compact # possible values: nested expanded compact compressed
 
