@@ -8,7 +8,7 @@ end_date: 2021-05-04
 hashtag: "#10043"
 openness_level: public
 ---
-国内已重新开签，但[最新面签结果](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI)显示，PP10043仍然严格执行。放弃幻想，只能诉讼。
+国内已重新开签，但[最新面签结果](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI)显示，PP10043 仍然严格执行。放弃幻想，只能诉讼。
 
 On May 4, 2021, The US Embassy in China has reopened to process visa applications. However, [interviewees have reported](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI) that they are still being refused under PP10043. It is time to cast away illusions and go for a lawsuit.
 
@@ -16,9 +16,9 @@ On May 4, 2021, The US Embassy in China has reopened to process visa application
 
 Possible fundraising platform：[https://www.gofundme.com/](https://www.gofundme.com/)
 
-预估律师费用：总共约10万美元。如果胜诉，可能返还费用。
+预估律师费用：总共约 **10 万美元**。如果胜诉，可能返还费用。
 
-Estimated attorney's fees: about US$100,000 in total. If the case is won, the fee may be refunded.
+Estimated attorney fees: about **US $100,000** in total. If the case is won, the fee may be refunded.
 
 目前计划是收集尽可能多的案例作为诉讼材料，以及筹款发起诉讼。
 
