@@ -37,7 +37,7 @@
         {% endfor %}
       </ul>
     </div>
-    <div id="navbar-menu" class="navbar-menu is-size-5 is-hidden-touch">
+    <div id="navbar-menu" class="navbar-menu is-size-4 is-hidden-touch">
       <div class="navbar-start">
         <a class="navbar-item {% if page.url == homeUrl %}is-active{% endif %}"
           href="{{ homeUrl | relative_url }}">{{ site.data.translations.menu.home[page.lang] }}</a>
@@ -68,7 +68,7 @@
 
         <div class="dropdown is-right is-hoverable">
           <div class="dropdown-trigger">
-            <button class="button is-size-5" aria-haspopup="true" aria-controls="lang-dropdown-menu">
+            <button class="button is-size-4" aria-haspopup="true" aria-controls="lang-dropdown-menu">
               <span>Language</span>
               <span class="icon is-small">
                 <i class="icon icon-angle-down" aria-hidden="true"></i>
