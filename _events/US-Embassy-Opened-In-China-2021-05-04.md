@@ -12,14 +12,6 @@ openness_level: public
 
 On May 4, 2021, The US Embassy in China has reopened to process visa applications. However, [interviewees have reported](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI) that they are still being refused under PP10043. It is time to cast away illusions and go for a lawsuit.
 
-可行的筹款渠道：[https://www.gofundme.com/](https://www.gofundme.com/)
-
-Possible fundraising platform：[https://www.gofundme.com/](https://www.gofundme.com/)
-
-预估律师费用：总共约 **10 万美元**。如果胜诉，可能返还费用。
-
-Estimated attorney fees: about **US $100,000** in total. If the case is won, the fee may be refunded.
-
 目前计划是收集尽可能多的案例作为诉讼材料，以及筹款发起诉讼。
 
 The current plan is to collect as many cases as possible as litigation materials and raise funds to initiate litigation.
