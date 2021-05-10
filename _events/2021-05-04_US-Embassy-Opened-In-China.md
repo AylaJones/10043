@@ -1,3 +1,9 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-05-05 14:51:06
+ * @Description: 
+ * @LastEditTime: 2021-05-10 16:17:40
+-->
 ---
 name: "中国境内美国大使馆开放面签，大批学生因 10043 被拒签 |  US Embassy in China Reopened, Students Still Getting Refused Under PP10043"
 address: "https://10043.org"
@@ -8,21 +14,11 @@ end_date: 2021-05-04
 hashtag: "#10043"
 openness_level: public
 ---
-国内已重新开签，但[最新面签结果](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI)显示，PP10043 仍然严格执行。放弃幻想，只能诉讼。
+国内已重新开签，但[最新面签结果](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI)显示，PP10043 仍然严格执行。放弃幻想，只能诉讼。目前计划是收集尽可能多的案例作为诉讼材料，以及筹款发起诉讼。为此，请大家积极填写并转发调查问卷，问卷地址：[https://wj.qq.com/s2/8404966/e1ab/](https://wj.qq.com/s2/8404966/e1ab/ )
 
 On May 4, 2021, The US Embassy in China has reopened to process visa applications. However, [interviewees have reported](https://docs.qq.com/sheet/DWXhmY1J3T1lCUnpI) that they are still being refused under PP10043. It is time to cast away illusions and go for a lawsuit.
-
-目前计划是收集尽可能多的案例作为诉讼材料，以及筹款发起诉讼。
-
 The current plan is to collect as many cases as possible as litigation materials and raise funds to initiate litigation.
-
-为此，请大家积极填写并转发调查问卷，问卷地址：[https://wj.qq.com/s2/8404966/e1ab/](https://wj.qq.com/s2/8404966/e1ab/ )
-
 To this end, we ask everyone to fill in and forward our questionnaire: [https://wj.qq.com/s2/8404966/e1ab/](https://wj.qq.com/s2/8404966/e1ab/ )
-
-只要表示出资意愿，您即有资格成为有效的诉讼成员。人越多，均摊下来的律师费越少。
-
-As long as you express your willingness to contribute fund, you will be eligible to become an effective litigation member. The more people there are, the less fees will be shared equally.
 
 **求支持求转发！**
 
