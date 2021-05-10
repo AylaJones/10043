@@ -1,9 +1,3 @@
-<!--
- * @Author: WANG Maonan
- * @Date: 2021-05-05 14:51:06
- * @Description: 
- * @LastEditTime: 2021-05-10 16:17:40
--->
 ---
 name: "中国境内美国大使馆开放面签，大批学生因 10043 被拒签 |  US Embassy in China Reopened, Students Still Getting Refused Under PP10043"
 address: "https://10043.org"
