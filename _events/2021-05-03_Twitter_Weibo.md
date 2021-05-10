@@ -8,6 +8,10 @@ end_date: 2021-05-03
 hashtag: "#10043"
 openness_level: public
 ---
-在微博和推特上发生，希望获得更多人的关注。
+在微博和推特上发声，希望获得更多人的关注。
 - 微博，[美国使馆签证处，Revoke 10043](https://m.weibo.cn/detail/4632776886453397)
 - 推特，[President Biden，#StudentsNotThieves](https://twitter.com/mmmmalloy/status/1388878357236838402)
+
+Post on Weibo and Twitter, hoping to get more attention.
+- Weibo, [U.S. Embassy for Visa, Revoke 10043](https://m.weibo.cn/detail/4632776886453397)
+- Twitter, [President Biden, #StudentsNotThieves](https://twitter.com/mmmmalloy/status/1388878357236838402)
