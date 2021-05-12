@@ -2,6 +2,6 @@
 
 如果您想帮助我们工作组进行律师咨询与诉讼，你可以选择捐赠以表达您对我们的支持。非常感谢！
 
-![donation qr code](./assets/images/phone.jpg)
+![donation qr code](https://10043.org/assets/images/phone.jpg)
 
 所有的赞赏费用将会用于诉讼，支出明细将透明公开，受大家监督。50 元及以上的赞赏，我们将列入捐赠榜，方便大家校验！（如果有遗漏，可以联系我们，联系邮箱见上面，这对我们很重要！）
