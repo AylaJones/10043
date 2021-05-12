@@ -25,3 +25,14 @@
     </div>
   </div>
 </section>
+
+<section class="section is-medium stories-section">
+  <div class="container content is-size-5">
+    <div class="columns">
+      <div class="column">
+        {% capture joinus_text %}{% include pages/texts/{{ page.lang }}/support/joinus.md %}{% endcapture %}
+        {{ joinus_text | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
