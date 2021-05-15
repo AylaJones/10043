@@ -1,0 +1,23 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-05-15 10:46:18
+ * @Description: 微信详细付款记录
+ * @LastEditTime: 2021-05-15 11:03:12
+-->
+<div class="container">
+    <div class="page-title">
+      <h1>{{ site.data.translations.donations_wxpay.title[page.lang] }}</h1>
+    </div>
+</div>
+  
+ 
+<section class="section is-medium stories-section">
+<div class="container content is-size-5">
+    <div class="columns">
+    <div class="column">
+        {% capture donations_wxpay_text %}{% include pages/texts/{{ page.lang }}/support/donations_wxpay.md %}{% endcapture %}
+        {{ donations_wxpay_text | markdownify }}
+    </div>
+    </div>
+</div>
+</section>

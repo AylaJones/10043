@@ -10,3 +10,9 @@ all-can-support:
 support:
   en: Support Us
   zh: 支持我们
+donations_alipay:
+  en: Alipay Payment Record
+  zh: 支付宝付款记录
+donations_wxpay:
+  en: Weixin Payment Record
+  zh: 微信付款记录
