@@ -1,14 +1,9 @@
 # 加入我们
 
-## 微信群
+你可以通过发送邮件的方式联系我们，我们会将你拉入微信群。
+**请务必使用国内或是国外的学校邮箱发送邮件，以确保你的身份。**
+下面是具体的邮件内容：
 
-入群二维码：
-1群已满，2群尚有空余。
-
-详细可联系微信（添加好友请备注学校、专业及来意）：
-- legendary00000
-
-## Slack
-
-加入Slack频道(作为容灾备份)：<a href="https://join.slack.com/t/slack-uui6692/shared_invite/zt-pbpqqrn7-mT7l56wnlruh9T0VaVwNWQ">https://join.slack.com/t/slack-uui6692/shared_invite/zt-pbpqqrn7-mT7l56wnlruh9T0VaVwNWQ
-</a>
+- Title: \[入群验证\]+本（硕）科学校+昵称
+- 邮件正文: **微信号**+本(硕)学校+专业（一定要发送微信号，让我们可以拉你进群）
+- 收件人: susong177@outlook.com
