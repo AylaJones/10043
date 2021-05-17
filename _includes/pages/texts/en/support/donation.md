@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-05-12 22:19:30
  * @Description: 英文的捐款
- * @LastEditTime: 2021-05-17 18:53:30
+ * @LastEditTime: 2021-05-17 20:03:20
 -->
 # Fund us
 
@@ -11,8 +11,8 @@ You could donate to support us.
 The rest of the donation will be prorated and returned to everyone. 
 Your support helps us to do the following:
 
-- Counseling lawyers for help and advice  
-- Legal expense 
+- Counseling lawyers for help and advice;
+- Legal expense;
 
 <p align="center">
     <img src="https://10043.org/assets/images/donations.png">
