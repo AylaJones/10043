@@ -8,3 +8,6 @@
 </p>
 
 所有的赞赏费用将会用于诉讼，支出明细将透明公开，受大家监督。50 元及以上的赞赏，我们将列入捐赠榜（只显示昵称），方便大家校验！（如果有遗漏，可以联系我们，联系邮箱见上面，这对我们很重要！）
+
+- 支付宝捐款记录：[https://10043.org/zh/donations_alipay](https://10043.org/zh/donations_alipay)
+- 微信捐款记录：[https://10043.org/zh/donations_wxpay](https://10043.org/zh/donations_wxpay)
