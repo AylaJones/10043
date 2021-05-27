@@ -1,4 +1,4 @@
-# 媒体报道
+# Media Coverage
 
 - Prof. Zhigang Shuo: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
 - Sixth Tone: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://mp.weixin.qq.com/s/cn8KTdkln7mmeUTP4rbmfA)
