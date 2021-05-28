@@ -7,3 +7,5 @@
 - Foreign Affairs: [Chinese Students Are Not a Fifth Column](https://www.foreignaffairs.com/articles/united-states/2021-04-23/chinese-students-are-not-fifth-column)
 - Georgetown Professor: [Reopening America to International Students](https://datacatalyst.org/wp-content/uploads/2021/04/Reopening-America-to-International-Students-V4.pdf)
 - [Joint Letter from MIT&CMU](https://gsc.mit.edu/wp-content/uploads/2020/12/Letter-from-Graduate-Student-Governments-on-Priorities-for-the-DHS-and-DOS-Transition-Teams.pdf)
+- ChinaFile：[The Right Way to Bring Chinese STEM Talent Back to the U.S](https://www.chinafile.com/reporting-opinion/viewpoint/right-way-bring-chinese-stem-talent-back-us)
+- American Physical Society Sites: [APS Files FOIA Request in Response to Revocation of Visas for Chinese Students](https://www.aps.org/policy/analysis/foia-request.cfm)
