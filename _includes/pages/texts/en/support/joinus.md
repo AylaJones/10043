@@ -1,9 +1,15 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-05-05 14:51:06
+ * @Description: 英文版的加入我们
+ * @LastEditTime: 2021-05-17 18:49:40
+-->
 # Join US
 
-## Slack
+Contact us by email and you will be invited into our group chat. 
+**Please use your school email address to verify**. 
+Don't forget containing the following information. 
 
-Slack Channel：[https://stop10043.slack.com](https://stop10043.slack.com)
-
-Join us via this link: [https://join.slack.com/t/slack-uui6692/shared_invite/zt-pbpqqrn7-mT7l56wnlruh9T0VaVwNWQ](https://join.slack.com/t/slack-uui6692/shared_invite/zt-pbpqqrn7-mT7l56wnlruh9T0VaVwNWQ)
-
-Contact email: [drluodian@gmail.com](mailto:drluodian@gmail.com)
+- **Title**: \[Group chat verification\] + Undergraduate(graduate) School + Nickname 
+- **Body**: WeChat ID + Undergraduate(graduate) School + Major (WeChat ID is required to join the group chat)  
+- **Recipients**: susong177@outlook.com
