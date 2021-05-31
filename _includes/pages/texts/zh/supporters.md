@@ -1,5 +1,7 @@
 # 媒体报道
 
+
+- 刘鹏宇，中国驻美国大使馆发言人，转发了我们的采访 [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - Prof. Zhigang Suo: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
 - Sixth Tone: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://mp.weixin.qq.com/s/cn8KTdkln7mmeUTP4rbmfA)
 - James McGregor: [The US Should Welcome Chinese Students With Open Arms](https://www.linkedin.com/pulse/us-should-welcome-chinese-students-open-arms-james-mcgregor/?trackingId=5xbIA%2B9GYIHAn7p3nAA2kg%3D%3D)
