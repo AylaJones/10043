@@ -16,7 +16,8 @@ openness_level: public
 - 你的问题和建议 
 
 请大家快速填写并广泛传播！
-https://wj.qq.com/s2/8522070/6e50/
+
+[问卷](https://wj.qq.com/s2/8522070/6e50/)
 
 According to our assessment, we have tentatively identified Ira Kurzban as our representative attorney. If you are willing to participate in the lawsuit, please fill out the following questionnaire and widely spread it to the associated groups and individuals around you so that we can keep track of the current effective participants. The survey consists of:
 - Subscribe to join our list and get updates via email
@@ -24,4 +25,5 @@ According to our assessment, we have tentatively identified Ira Kurzban as our r
 - Your questions and suggestions on lawsuit, or to lawyer.
 
 Please fill it out and spread it widely!
-https://wj.qq.com/s2/8522070/6e50/
+
+[Questionnaire](https://wj.qq.com/s2/8522070/6e50/)
