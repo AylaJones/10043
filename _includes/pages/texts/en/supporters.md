@@ -9,3 +9,4 @@
 - [Joint Letter from MIT&CMU](https://gsc.mit.edu/wp-content/uploads/2020/12/Letter-from-Graduate-Student-Governments-on-Priorities-for-the-DHS-and-DOS-Transition-Teams.pdf)
 - ChinaFile：[The Right Way to Bring Chinese STEM Talent Back to the U.S](https://www.chinafile.com/reporting-opinion/viewpoint/right-way-bring-chinese-stem-talent-back-us)
 - American Physical Society Sites: [APS Files FOIA Request in Response to Revocation of Visas for Chinese Students](https://www.aps.org/policy/analysis/foia-request.cfm)
+- Association of American Universities: [AAU Recommendations to President-Elect Biden](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/AAU_Recommendations_to_President-elect_Biden.pdf)
