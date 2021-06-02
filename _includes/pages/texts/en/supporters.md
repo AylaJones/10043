@@ -12,3 +12,4 @@
 - ChinaFile：[The Right Way to Bring Chinese STEM Talent Back to the U.S](https://www.chinafile.com/reporting-opinion/viewpoint/right-way-bring-chinese-stem-talent-back-us)
 - American Physical Society Sites: [APS Files FOIA Request in Response to Revocation of Visas for Chinese Students](https://www.aps.org/policy/analysis/foia-request.cfm)
 - Association of American Universities: [AAU Recommendations to President-Elect Biden](https://www.aau.edu/sites/default/files/AAU-Files/Key-Issues/AAU_Recommendations_to_President-elect_Biden.pdf)
+- Georgetown University: [Assessing the Scope of U.S. Visa Restrictions on Chinese Students](https://cset.georgetown.edu/publication/assessing-the-scope-of-u-s-visa-restrictions-on-chinese-students/)
