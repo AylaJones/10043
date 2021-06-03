@@ -1,6 +1,6 @@
 # Media Coverage
 
-
+- The Daily Pennsylvanian: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 - Pengyu Liu, spokesperson for the Chinese Embassy in the United States, forwarded our interview. [Voice from Chinese students:](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - Prof. Zhigang Suo: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
 - Sixth Tone: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://mp.weixin.qq.com/s/cn8KTdkln7mmeUTP4rbmfA)
