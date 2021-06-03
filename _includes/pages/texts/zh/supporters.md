@@ -1,5 +1,6 @@
 # 媒体报道
 
+- 宾夕法尼亚大学校报: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 
 - 刘鹏宇，中国驻美国大使馆发言人，转发了我们的采访 [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - Prof. Zhigang Suo: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
