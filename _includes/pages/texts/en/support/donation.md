@@ -28,6 +28,6 @@ Welcome to supervise us.
 - Donation record on WeChat: [https://10043.org/en/donations_wxpay](https://10043.org/en/donations_wxpay)
 - Contact us: susong177@outlook.com
 
-**Meanwhile, we are working on providing a more accessible fundraising platform for supporters outside the China and it would be released soon. Please stay tuned and thank you for your support!**
+**Meanwhile, we are working on providing a more accessible fundraising platform for supporters outside the China and it would be released very soon. Please stay tuned and thank you for your support!**
 
 
