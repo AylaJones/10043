@@ -1,7 +1,9 @@
 # 媒体报道
 
+- 财经杂志微博特稿: [梦断10043号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
+- 王冰汝微博转发财经特稿：[如果10043早十几年，被拒签的留学生就是我](https://m.weibo.cn/2174585797/4646485893316992)
+- [微博CEO转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
 - 宾夕法尼亚大学校报: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
-
 - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - 锁志刚教授（哈佛教授，美国两院院士）: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
 - Sixth Tone（澎湃旗下关注高等教育媒体）: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://mp.weixin.qq.com/s/cn8KTdkln7mmeUTP4rbmfA)
