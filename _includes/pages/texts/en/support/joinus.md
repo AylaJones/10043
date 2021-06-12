@@ -7,7 +7,7 @@
 # Join US
 **Joint-Letter Group**
 
-Contact us by email and you will be invited into our joint-letter group chat. 
+<!-- Contact us by email and you will be invited into our joint-letter group chat. 
 **Please use your school email address to verify**. 
 Don't forget containing the following information. 
 
@@ -15,7 +15,7 @@ Don't forget containing the following information.
 - **Body**: WeChat ID + Undergraduate(graduate) School + Major (WeChat ID is required to join the group chat)  
 - **Recipients**: susong177@outlook.com
 
-**Main Group**
+**Main Group** -->
 
 Add our official WeChat account, after verify your identity we will invite you in
 - pp10043_helper
