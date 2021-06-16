@@ -2,11 +2,11 @@
 
 - American Council on Education: [Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
 
-- Financial magazine's Weibo special article: [Dream Breaker PP10043: Chinese students are going to sue the U.S. government.](https://m.weibo.cn/1684012053/4646253742788686)
+- Financial magazine's special article: [Dream Breaker PP10043: Chinese students are going to sue the U.S. government.](https://m.weibo.cn/1684012053/4646253742788686)
 
-- Bingru Wang's Weibo (She is a Chinese journalist with extensive contact of the U.S. politics): [If PP10043 was issued dozen years ago, the rejected student would be me.](https://m.weibo.cn/2174585797/4646485893316992)
+- Bingru Wang's Weibo: [If PP10043 was issued dozen years ago, the rejected student would be me.](https://m.weibo.cn/2174585797/4646485893316992)
 
-- [Support From Weibo's CEO](https://m.weibo.cn/1111681197/4646614302724139)
+- [Voice From Weibo's CEO](https://m.weibo.cn/1111681197/4646614302724139)
 
 - The Daily Pennsylvanian: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 
