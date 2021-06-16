@@ -17,5 +17,5 @@ Don't forget containing the following information.
 
 **Main Group**
 
-Add our official WeChat account, after verify your identity we will invite you in
+Add our official WeChat account, after verifying your identity we will invite you in
 - pp10043_helper
