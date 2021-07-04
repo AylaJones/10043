@@ -1,8 +1,16 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-07-04 12:10:36
+ * @Description: 关于媒体的报导
+ * @LastEditTime: 2021-07-04 12:19:15
+-->
+
 # 媒体报道
+
 - 美国大学教育组织: [Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
 - 财经杂志微博特稿: [梦断10043号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
 - 王冰汝微博转发财经特稿: [如果10043早十几年，被拒签的留学生就是我](https://m.weibo.cn/2174585797/4646485893316992)
-- [微博CEO转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
+- 微博发声: [微博CEO转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
 - 宾夕法尼亚大学校报: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - 锁志刚教授（哈佛教授，美国两院院士）: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
