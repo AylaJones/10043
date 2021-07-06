@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-06 20:20:22
+ * @LastEditTime: 2021-07-06 22:55:08
 -->
 
 # 媒体报道
@@ -22,11 +22,19 @@
     - 新浪财经转发: [梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://finance.sina.com.cn/china/gncj/2021-06-09/doc-ikqciyzi8693498.shtml)
     - 王冰汝微博转发财经特稿: [如果 10043 早十几年，被拒签的留学生就是我](https://m.weibo.cn/2174585797/4646485893316992)
     - 微博 CEO 发声: [微博 CEO 转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
+
+<p align="center">
+    <img src="https://10043.org/assets/images/caijing_news.png" width="90%">
+</p>
+
+- Sixth Tone（澎湃旗下关注高等教育媒体）: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
+    - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
+
 - 美国大学教育组织: [Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
 - 宾夕法尼亚大学校报: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
-- 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
+
 - 锁志刚教授（哈佛教授，美国两院院士）: [We have all been young, had our dreams, and planned our careers.](https://twitter.com/zhigangsuo/status/1397280749817106437?s=09)
-- Sixth Tone（澎湃旗下关注高等教育媒体）: [Campaign Against US Ban on Some Chinese Students Gains Ground](https://mp.weixin.qq.com/s/cn8KTdkln7mmeUTP4rbmfA)
+
 - James McGregor: [The US Should Welcome Chinese Students With Open Arms](https://www.linkedin.com/pulse/us-should-welcome-chinese-students-open-arms-james-mcgregor/?trackingId=5xbIA%2B9GYIHAn7p3nAA2kg%3D%3D)
 - Carnegie Endowment for International Peace: [Trump-Era Policies Toward Chinese STEM Talent: A Need for Better Balance](https://carnegieendowment.org/2021/03/25/trump-era-policies-toward-chinese-stem-talent-need-for-better-balance-pub-84137)
 - Foreign Affairs （外事处）: [Chinese Students Are Not a Fifth Column](https://www.foreignaffairs.com/articles/united-states/2021-04-23/chinese-students-are-not-fifth-column)
