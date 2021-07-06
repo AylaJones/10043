@@ -2,10 +2,8 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:24:41
  * @Description: 财经网的报道, 英文翻译
- * @LastEditTime: 2021-07-06 20:49:20
+ * @LastEditTime: 2021-07-06 20:57:27
 -->
-
-# A Dream Shattered—Chinese Students to Sue U.S. Government for 10043 Visa Rejection
 
 ```
 Reporter: Xiaofeng Wang

@@ -5,8 +5,6 @@
  * @LastEditTime: 2021-07-06 20:41:07
 -->
 
-# A Dream Shattered—Chinese Students to Sue U.S. Government for 10043 Visa Rejection
-
 ```
 Reporter: Xiaofeng Wang
 ```
