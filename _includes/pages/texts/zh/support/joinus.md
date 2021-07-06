@@ -13,4 +13,9 @@
 **抱团交流群**
 
 你也可以添加下方小助手的微信号，备注好个人信息，小助手会邀请你进入交流大群
+
 - pp10043_helper
+
+<p align="center">
+    <img src="https://10043.org/assets/images/pp10043_helper.png" width="60%">
+</p>

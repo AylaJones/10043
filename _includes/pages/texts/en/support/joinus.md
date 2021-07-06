@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-05-05 14:51:06
  * @Description: 英文版的加入我们
- * @LastEditTime: 2021-05-17 18:49:40
+ * @LastEditTime: 2021-07-06 15:52:36
 -->
 # Join US
 <!-- **Joint-Letter Group**
@@ -18,4 +18,6 @@ Don't forget containing the following information.
 **Main Group**
 
 Add our official WeChat account, after verifying your identity we will invite you in
+
 - pp10043_helper
+
