@@ -1,12 +1,17 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-07-04 12:10:36
+ * @Description: 媒体报道, 英文
+ * @LastEditTime: 2021-07-06 20:18:48
+-->
 # Media Coverage
 
 - American Council on Education: [Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
 
 - Financial magazine's special article: [Dream Breaker PP10043: Chinese students are going to sue the U.S. government.](https://m.weibo.cn/1684012053/4646253742788686)
-
-- Bingru Wang's Weibo: [If PP10043 was issued dozen years ago, the rejected student would be me.](https://m.weibo.cn/2174585797/4646485893316992)
-
-- [Voice From Weibo's CEO](https://m.weibo.cn/1111681197/4646614302724139)
+    - Non-official Translation: [(**Translation**) A Dearm Shattered—Chinese students to sue U.S. Government for 10043 Visa Rejection](https://10043.org/en/notes/caijing_magzine)
+    - Bingru Wang's Weibo: [If PP10043 was issued dozen years ago, the rejected student would be me.](https://m.weibo.cn/2174585797/4646485893316992)
+    - Voice From Weibo's CEO: [Voice From Weibo's CEO](https://m.weibo.cn/1111681197/4646614302724139)
 
 - The Daily Pennsylvanian: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 
