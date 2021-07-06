@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:41:43
  * @Description: 财经新闻的翻译页面
- * @LastEditTime: 2021-07-06 20:58:50
+ * @LastEditTime: 2021-07-06 21:04:48
 -->
 
 <div class="container">
@@ -14,7 +14,7 @@
  
 <section class="section is-medium stories-section">
 <div class="container content is-size-5">
-    {% include toc.html html=content %}
+    {% include helpers/toc.html html=content %}
     <div class="column is-8 is-offset-2">
         {% capture caijing_magzine_text %}{% include pages/texts/{{ page.lang }}/notes/caijing_magzine.md %}{% endcapture %}
         {{ caijing_magzine_text | markdownify }}
