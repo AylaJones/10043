@@ -2,10 +2,14 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:24:41
  * @Description: 财经网的报道, 英文翻译
- * @LastEditTime: 2021-07-06 19:39:26
+ * @LastEditTime: 2021-07-06 20:41:07
 -->
 
-# A Dearm Shattered—Chinese students to sue U.S. Government for 10043 Visa Rejection
+# A Dream Shattered—Chinese Students to Sue U.S. Government for 10043 Visa Rejection
+
+```
+Reporter: Xiaofeng Wang
+```
 
 The U.S. consulates in China have resumed visa service for a month, which is considerable progress for Chinese students pursuing overseas study in the U.S. after the one-year lockdown. 
 While many applicants have successfully obtained their F/J visas, this is not the case for some students studying in certain Chinese science and engineering schools. 
