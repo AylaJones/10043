@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:24:41
  * @Description: 财经网的报道, 英文翻译
- * @LastEditTime: 2021-07-06 19:39:26
+ * @LastEditTime: 2021-07-06 19:58:46
 -->
 
 # A Dearm Shattered—Chinese students to sue U.S. Government for 10043 Visa Rejection
