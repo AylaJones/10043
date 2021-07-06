@@ -17,5 +17,5 @@
 - pp10043_helper
 
 <p align="center">
-    <img src="https://10043.org/assets/images/pp10043_helper.png" width="60%">
+    <img src="https://10043.org/assets/images/pp10043_helper.png" width="30%">
 </p>
