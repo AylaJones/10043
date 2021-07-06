@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:24:41
  * @Description: 财经网的报道, 英文翻译
- * @LastEditTime: 2021-07-06 20:41:41
+ * @LastEditTime: 2021-07-06 20:49:20
 -->
 
 # A Dream Shattered—Chinese Students to Sue U.S. Government for 10043 Visa Rejection
@@ -23,7 +23,7 @@ Students affected by P.P 10043 are currently studying at or have graduated from 
 The students had thought the Biden administration would annul this unfair order, but the reality turned out to be disappointing. 
 They are still subject to visa rejection, becoming the special "10043 students".
 
-## Rejected, Rejected, Rejected
+### Rejected, Rejected, Rejected
 
 According to the Trump administration, when P.P.10043 was issued, the estimated number of affected people is around 3000 to 5000. 
 However, the actual number shows that the affected are not limited to students from the "National Seven Sons" and Beijing University of Posts and Telecommunications (BUPT). 
@@ -83,7 +83,7 @@ They haven't seen each other for more than a year because of the COVID-19 pandem
 Within two minutes of his visa interview in May 2021, he was rejected because he had studied a sensitive major at one of the eight universities. 
 In his view, so long as the policy exists, it is impossible to reunite with his wife in the U.S. 
 
-## The hurts from the uncertainty
+### The hurts from the uncertainty
 
 A group of affected students have united and wrote a joint letter to U.S. universities, intending to raise public awareness on this issue. 
 Some universities in the United States have also lobbied Washington to end P.P.10043 as soon as possible. 
@@ -136,7 +136,7 @@ You work hard, and you get what you want.
 It turns out my expectation was wrong. 
 Now, as I see it, America is unreasonable." Hua Kang said.
 
-## Refuse to be forgotten.
+### Refuse to be forgotten.
 
 Shared misfortunes connected a group of "10043 students". 
 A WeChat group named "Stay positive through PP10043" was set up. 
