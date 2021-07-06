@@ -1,0 +1,24 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-07-06 19:41:43
+ * @Description: 财经新闻的翻译页面
+ * @LastEditTime: 2021-07-06 19:48:18
+-->
+
+<div class="container">
+    <div class="page-title">
+      <h1>{{ site.data.translations.donations_alipay.title[page.lang] }}</h1>
+    </div>
+</div>
+  
+ 
+<section class="section is-medium stories-section">
+<div class="container content is-size-5">
+    <div class="columns">
+    <div class="column">
+        {% capture donations_alipay_text %}{% include pages/texts/{{ page.lang }}/notes/caijing_magazine.md %}{% endcapture %}
+        {{ donations_alipay_text | markdownify }}
+    </div>
+    </div>
+</div>
+</section>
