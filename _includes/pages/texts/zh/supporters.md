@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-06 15:21:25
+ * @LastEditTime: 2021-07-06 15:24:51
 -->
 
 # 媒体报道
@@ -13,7 +13,7 @@
     - 澎湃新闻的转载: [美方近期拒签中国500余名理工科研究生，延续打压政策](https://www.thepaper.cn/newsDetail_forward_13460905)
 
 <p align="center">
-    <img src="https://10043.org/assets/images/07_06_news.png" width="60%">
+    <img src="https://10043.org/assets/images/07_06_news.png" width="90%">
 </p>
 
 - 财经杂志微博特稿: [梦断10043号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
