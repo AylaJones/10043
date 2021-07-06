@@ -1,11 +1,5 @@
-<!--
- * @Author: WANG Maonan
- * @Date: 2021-07-06 14:19:16
- * @Description: 关于媒体热搜消息
- * @LastEditTime: 2021-07-06 14:51:37
--->
 ---
-name: "媒体报道-微博&百度热搜 ｜ Weibo & Baidu Trend Search"
+name: "媒体报道-微博和百度热搜 ｜ Weibo & Baidu Trend Search"
 address: "https://10043.org"
 link: ""
 link_title: ""
