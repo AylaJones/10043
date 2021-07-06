@@ -2,20 +2,24 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:41:43
  * @Description: 财经新闻的翻译页面
- * @LastEditTime: 2021-07-06 21:04:48
+ * @LastEditTime: 2021-07-06 22:14:35
 -->
 
 <div class="container">
-    <div class="page-title">
+    <div class="section">
       <h1>{{ site.data.translations.notes.caijing_magzine.title[page.lang] }}</h1>
+        <pre class="highlight">
+            Non-official translation, originally written in Chinese  
+            Reporter: Xiaofeng Wang 
+        </pre>
     </div>
 </div>
   
  
 <section class="section is-medium stories-section">
 <div class="container content is-size-5">
-    {% include helpers/toc.html html=content %}
     <div class="column is-8 is-offset-2">
+        {% include helpers/toc.html html=content %} <!-- 目录 -->
         {% capture caijing_magzine_text %}{% include pages/texts/{{ page.lang }}/notes/caijing_magzine.md %}{% endcapture %}
         {{ caijing_magzine_text | markdownify }}
     </div>

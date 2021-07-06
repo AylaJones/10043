@@ -2,12 +2,8 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-06 19:24:41
  * @Description: 财经网的报道, 英文翻译
- * @LastEditTime: 2021-07-06 20:41:07
+ * @LastEditTime: 2021-07-06 22:06:14
 -->
-
-```
-Reporter: Xiaofeng Wang
-```
 
 The U.S. consulates in China have resumed visa service for a month, which is considerable progress for Chinese students pursuing overseas study in the U.S. after the one-year lockdown. 
 While many applicants have successfully obtained their F/J visas, this is not the case for some students studying in certain Chinese science and engineering schools. 
