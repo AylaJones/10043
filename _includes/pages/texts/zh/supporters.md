@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-06 14:36:47
+ * @LastEditTime: 2021-07-06 14:39:13
 -->
 
 # 媒体报道
@@ -11,7 +11,7 @@
     - 新华网转发: [美拒签中国500余名理工科研究生 延续打压政策](http://www.xinhuanet.com/world/2021-07/06/c_1211229231.htm)
 - 财经杂志微博特稿: [梦断10043号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
     - 王冰汝微博转发财经特稿: [如果10043早十几年，被拒签的留学生就是我](https://m.weibo.cn/2174585797/4646485893316992)
-    - 微博发声: [微博CEO转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
+    - 微博 CEO 发声: [微博CEO转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
 - 美国大学教育组织: [Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
 - 宾夕法尼亚大学校报: [Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
 - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
