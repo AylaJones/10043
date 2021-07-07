@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-07 20:57:29
+ * @LastEditTime: 2021-07-07 21:28:35
 -->
 
 # 媒体报道
@@ -30,18 +30,20 @@
     <img src="https://10043.org/assets/images/caijing/caijing_news.png" width="90%">
 </p>
 
-- 环球网：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://m.weibo.cn/status/4631761194323781)
-
 - Sixth Tone（澎湃旗下关注高等教育媒体）：[Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
     - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
+- 环球网（4.30 号新闻）：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://world.huanqiu.com/article/42vxkqaumhP)
+    - 环球网-微博版：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://m.weibo.cn/status/4631761194323781)
+    - 杭州网-新闻中心转发：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://news.hangzhou.com.cn/gjxw/content/2021-05/01/content_7957470.htm)
+- 中参馆（4.27 号新闻）：[The Right Way to Bring Chinese STEM Talent Back to the U.S](https://www.chinafile.com/reporting-opinion/viewpoint/right-way-bring-chinese-stem-talent-back-us)
+- Foreign Affairs（4.23 号新闻）：[Chinese Students Are Not a Fifth Column](https://www.foreignaffairs.com/articles/united-states/2021-04-23/chinese-students-are-not-fifth-column)
+- Carnegie Endowment for International Peace（3.25 号新闻）：[Trump-Era Policies Toward Chinese STEM Talent: A Need for Better Balance](https://carnegieendowment.org/2021/03/25/trump-era-policies-toward-chinese-stem-talent-need-for-better-balance-pub-84137)
 
-- Carnegie Endowment for International Peace：[Trump-Era Policies Toward Chinese STEM Talent: A Need for Better Balance](https://carnegieendowment.org/2021/03/25/trump-era-policies-toward-chinese-stem-talent-need-for-better-balance-pub-84137)
+<p align="center">
+    <img src="https://10043.org/assets/images/news/sixthtone_4_30.png" width="90%">
+</p>
 
-- Foreign Affairs：[Chinese Students Are Not a Fifth Column](https://www.foreignaffairs.com/articles/united-states/2021-04-23/chinese-students-are-not-fifth-column)
-
-- 中参馆：[The Right Way to Bring Chinese STEM Talent Back to the U.S](https://www.chinafile.com/reporting-opinion/viewpoint/right-way-bring-chinese-stem-talent-back-us)
-
-- 学界发声：
+- 学术界发声：
     - 美国大学教育组织：[Letter-State-Dept-Proclamation-10043](https://www.acenet.edu/Documents/Letter-State-Dept-Proclamation-10043-061021.pdf)
     - 宾夕法尼亚大学校报：[Chinese intl. students urge Penn to back their rebuke of Trump era visa suspensions](https://www.thedp.com/article/2021/06/proclamation-10043-chinese-penn-students)
     - MIT 和 CMU 联合发声：[Joint Letter from MIT&CMU](https://gsc.mit.edu/wp-content/uploads/2020/12/Letter-from-Graduate-Student-Governments-on-Priorities-for-the-DHS-and-DOS-Transition-Teams.pdf)
@@ -53,3 +55,7 @@
     - Georgetown Professor：[Reopening America to International Students](https://datacatalyst.org/wp-content/uploads/2021/04/Reopening-America-to-International-Students-V4.pdf)
     - 泰晤士高等教育组织报道：[Chinese students accused of ‘military ties’ lobby to re-enter US
     ](https://www.timeshighereducation.com/news/chinese-students-accused-military-ties-lobby-re-enter-us)
+
+<p align="center">
+    <img src="https://10043.org/assets/images/news/sixthtone_news.png" width="90%">
+</p>
