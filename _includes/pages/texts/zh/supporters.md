@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-07 21:33:12
+ * @LastEditTime: 2021-07-07 21:54:14
 -->
 
 # 媒体报道
@@ -57,5 +57,5 @@
     ](https://www.timeshighereducation.com/news/chinese-students-accused-military-ties-lobby-re-enter-us)
 
 <p align="center">
-    <img src="https://10043.org/assets/images/news/sixthtone_news.png" width="90%">
+    <img src="https://10043.org/assets/images/news/academic_news.png" width="90%">
 </p>
