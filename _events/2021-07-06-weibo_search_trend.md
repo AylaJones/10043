@@ -12,7 +12,7 @@ openness_level: public
 报道的详细链接见[媒体报道](https://10043.org/zh/supporters)页面。
 
 <p align="center">
-    <img src="https://10043.org/assets/images/07_06_news.png" width="60%">
+    <img src="https://10043.org/assets/images/news/07_06_news.png" width="60%">
 </p>
 
 该话题登上了**微博**和**百度**热搜榜第一，持续引发关注。

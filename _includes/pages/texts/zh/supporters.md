@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-07 21:28:35
+ * @LastEditTime: 2021-07-07 21:33:12
 -->
 
 # 媒体报道
@@ -16,7 +16,7 @@
     - 澎湃新闻转载：[美方近期拒签中国500余名理工科研究生，延续打压政策](https://www.thepaper.cn/newsDetail_forward_13460905)
 
 <p align="center">
-    <img src="https://10043.org/assets/images/07_06_news.png" width="90%">
+    <img src="https://10043.org/assets/images/news/07_06_news.png" width="90%">
 </p>
 
 - 财经杂志微博特稿：[梦断 10043 号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
@@ -27,7 +27,7 @@
     - 微博 CEO 发声：[微博 CEO 转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
 
 <p align="center">
-    <img src="https://10043.org/assets/images/caijing/caijing_news.png" width="90%">
+    <img src="https://10043.org/assets/images/news/caijing/caijing_news.png" width="90%">
 </p>
 
 - Sixth Tone（澎湃旗下关注高等教育媒体）：[Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
