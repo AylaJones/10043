@@ -2,10 +2,13 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-06 19:14:54
+ * @LastEditTime: 2021-07-07 20:46:38
 -->
 
 # 媒体报道
+
+- 人民日报报道：[500多名中国留学生赴美签证被拒，外交部回应](https://mp.weixin.qq.com/s/FXsQ1MA7n1XcWxkPm-WbBg)
+    - 参考消息报道：[500多名中国留学生赴美签证被拒](http://www.cankaoxiaoxi.com/china/20210706/2447687.shtml)
 
 - 中国日报网：[独家：美拒签中国500余名理工科研究生 延续打压政策](http://world.chinadaily.com.cn/a/202107/06/WS60e3b35ea3101e7ce9758446.html)
     - 新华网转载：[美拒签中国500余名理工科研究生 延续打压政策](http://www.xinhuanet.com/world/2021-07/06/c_1211229231.htm)
@@ -16,8 +19,6 @@
     <img src="https://10043.org/assets/images/07_06_news.png" width="90%">
 </p>
 
-- 人民日报报道：[500多名中国留学生赴美签证被拒，外交部回应](https://mp.weixin.qq.com/s/FXsQ1MA7n1XcWxkPm-WbBg)
-- 参考消息报道：[500多名中国留学生赴美签证被拒](http://www.cankaoxiaoxi.com/china/20210706/2447687.shtml)
 - 财经杂志微博特稿：[梦断 10043 号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
     - 财经杂志原文：[特稿 - 梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://weibo.com/ttarticle/p/show?id=2309404646253744226334)
     - 财经杂志原文非官方翻译：[(**翻译**)梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://10043.org/zh/notes/caijing_magzine)
@@ -32,8 +33,7 @@
 - 环球网：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://m.weibo.cn/status/4631761194323781)
 
 - Sixth Tone（澎湃旗下关注高等教育媒体）：[Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
-
-- 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
+    - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 
 - Carnegie Endowment for International Peace：[Trump-Era Policies Toward Chinese STEM Talent: A Need for Better Balance](https://carnegieendowment.org/2021/03/25/trump-era-policies-toward-chinese-stem-talent-need-for-better-balance-pub-84137)
 
