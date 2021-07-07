@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-07 20:46:38
+ * @LastEditTime: 2021-07-07 20:57:29
 -->
 
 # 媒体报道
@@ -27,7 +27,7 @@
     - 微博 CEO 发声：[微博 CEO 转发特稿声援](https://m.weibo.cn/1111681197/4646614302724139)
 
 <p align="center">
-    <img src="https://10043.org/assets/images/caijing_news.png" width="90%">
+    <img src="https://10043.org/assets/images/caijing/caijing_news.png" width="90%">
 </p>
 
 - 环球网：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://m.weibo.cn/status/4631761194323781)
