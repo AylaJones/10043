@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-08 11:01:31
+ * @LastEditTime: 2021-07-08 11:03:03
 -->
 
 # 媒体报道
@@ -38,7 +38,7 @@
     <img src="https://10043.org/assets/images/news/caijing/caijing_news.png" width="90%">
 </p>
 
-- Sixth Tone（澎湃旗下关注高等教育媒体）：[Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
+- Sixth Tone（澎湃旗下关注高等教育媒体，5.26 号新闻）：[Campaign Against US Ban on Some Chinese Students Gains Ground](https://www.sixthtone.com/news/1007547/campaign-against-us-ban-on-certain-chinese-students-gains-ground)
     - 刘鹏宇（中国驻美国大使馆发言人） [Voice from Chinese students](https://twitter.com/SpoxCHNinUS/status/1397582046042550273?s=20)
 - 环球网（4.30 号新闻）：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://world.huanqiu.com/article/42vxkqaumhP)
     - 环球网-微博版：[美部分解除中国留学生 "赴美禁令"，但签证政策仍 "有所保留"](https://m.weibo.cn/status/4631761194323781)
