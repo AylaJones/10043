@@ -2,12 +2,12 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-08 10:52:10
+ * @LastEditTime: 2021-07-08 11:01:31
 -->
 
 # 媒体报道
 
-- 人民日报报道：[500多名中国留学生赴美签证被拒，外交部回应](https://mp.weixin.qq.com/s/FXsQ1MA7n1XcWxkPm-WbBg)
+- 人民日报报道（7.6 号新闻）：[500多名中国留学生赴美签证被拒，外交部回应](https://mp.weixin.qq.com/s/FXsQ1MA7n1XcWxkPm-WbBg)
     - 央视新闻: [外交部直指美方是在开历史倒车, 外交部回应赴美留学生被拒签](https://m.weibo.cn/status/4655993185371666)
     - 新华网报道: [中方刚刚回应！500多名中国留学生赴美签证申请被拒](https://mp.weixin.qq.com/s/UrUafH7tWM_IGaMK_ajT4A)
     - 中央政法委长安剑: [说一套做一套！美国拒签500多名中国留学生](https://mp.weixin.qq.com/s/RGKSPT2a81eraMjpvjIaRw)
@@ -18,7 +18,7 @@
 </p>
 
 
-- 中国日报网：[独家：美拒签中国500余名理工科研究生 延续打压政策](http://world.chinadaily.com.cn/a/202107/06/WS60e3b35ea3101e7ce9758446.html)
+- 中国日报网（7.6 号新闻）：[独家：美拒签中国500余名理工科研究生 延续打压政策](http://world.chinadaily.com.cn/a/202107/06/WS60e3b35ea3101e7ce9758446.html)
     - 新华网转载：[美拒签中国500余名理工科研究生 延续打压政策](http://www.xinhuanet.com/world/2021-07/06/c_1211229231.htm)
     - 人民网转载：[美拒签中国500余名理工科研究生 延续打压政策](http://world.people.com.cn/n1/2021/0706/c1002-32150151.html)
     - 澎湃新闻转载：[美方近期拒签中国500余名理工科研究生，延续打压政策](https://www.thepaper.cn/newsDetail_forward_13460905)
@@ -27,7 +27,7 @@
     <img src="https://10043.org/assets/images/news/07_06_news.png" width="90%">
 </p>
 
-- 财经杂志微博特稿：[梦断 10043 号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
+- 财经杂志微博特稿（6.9 号新闻）：[梦断 10043 号令： 被拒签中国略学生拟起诉美国政府](https://m.weibo.cn/1684012053/4646253742788686)
     - 财经杂志原文：[特稿 - 梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://weibo.com/ttarticle/p/show?id=2309404646253744226334)
     - 财经杂志原文非官方翻译：[(**翻译**)梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://10043.org/zh/notes/caijing_magzine)
     - 新浪财经转发：[梦断 10043 号令：被拒签中国留学生拟起诉美国政府](https://finance.sina.com.cn/china/gncj/2021-06-09/doc-ikqciyzi8693498.shtml)
