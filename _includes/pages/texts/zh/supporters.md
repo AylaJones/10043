@@ -2,13 +2,21 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-04 12:10:36
  * @Description: 关于媒体的报导
- * @LastEditTime: 2021-07-07 21:54:14
+ * @LastEditTime: 2021-07-08 10:52:10
 -->
 
 # 媒体报道
 
 - 人民日报报道：[500多名中国留学生赴美签证被拒，外交部回应](https://mp.weixin.qq.com/s/FXsQ1MA7n1XcWxkPm-WbBg)
-    - 参考消息报道：[500多名中国留学生赴美签证被拒](http://www.cankaoxiaoxi.com/china/20210706/2447687.shtml)
+    - 央视新闻: [外交部直指美方是在开历史倒车, 外交部回应赴美留学生被拒签](https://m.weibo.cn/status/4655993185371666)
+    - 新华网报道: [中方刚刚回应！500多名中国留学生赴美签证申请被拒](https://mp.weixin.qq.com/s/UrUafH7tWM_IGaMK_ajT4A)
+    - 中央政法委长安剑: [说一套做一套！美国拒签500多名中国留学生](https://mp.weixin.qq.com/s/RGKSPT2a81eraMjpvjIaRw)
+    - 参考消息报道：[500多名中国留学生赴美签证被拒 赵立坚批美方开历史倒车](http://www.cankaoxiaoxi.com/china/20210706/2447687.shtml)
+
+<p align="center">
+    <img src="https://10043.org/assets/images/news/yangshi_news.png" width="90%">
+</p>
+
 
 - 中国日报网：[独家：美拒签中国500余名理工科研究生 延续打压政策](http://world.chinadaily.com.cn/a/202107/06/WS60e3b35ea3101e7ce9758446.html)
     - 新华网转载：[美拒签中国500余名理工科研究生 延续打压政策](http://www.xinhuanet.com/world/2021-07/06/c_1211229231.htm)
