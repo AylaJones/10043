@@ -12,7 +12,7 @@ matrix:
     - code
     - pre
   sources:
-  - 'pages/en/*.html'
-  - 'pages/en/notes_page/*.html'
-  - 'stories/en/*.md'
+  - '_pages/en/*.html'
+  - '_pages/en/notes_page/*.html'
+  - '_stories/en/*.md'
   default_encoding: utf-8
