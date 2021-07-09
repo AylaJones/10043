@@ -1,6 +1,14 @@
-# 《财经杂志》特稿
+<!--
+ * @Author: Zhifei & WANG Maonan
+ * @Date: 2021-07-07 17:18:48
+ * @Description: story 故事开头部分
+ * @LastEditTime: 2021-07-09 12:15:35
+-->
 
-点此阅读：[《梦断10043号令：被拒签中国留学生拟起诉美国政府》](https://weibo.com/ttarticle/p/show?id=2309404646253744226334)
+# 快速了解事件来龙去脉
+
+- 图文说明：[保护我们的学术梦想免受 PP10043 的破坏](https://10043.org/zh//notes/promotion_video)
+- 《财经杂志》特稿：[《梦断10043号令：被拒签中国留学生拟起诉美国政府》](https://weibo.com/ttarticle/p/show?id=2309404646253744226334)
 
 # 拒签故事
 

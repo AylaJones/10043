@@ -1,6 +1,7 @@
-# Special Report from Financial Magazine
+# Quickly understand the ins and outs of events
 
-[Read *A Dearm Shattered—Chinese students to sue U.S. Government for 10043 Visa Rejection* (Translation)](https://10043.org/en/notes/caijing_magzine)
+- Graphic Description: [Protecting our academic dreams from PP10043](https://10043.org/en/notes/promotion_video)
+- Special Report from Financial Magazine: [*A Dearm Shattered—Chinese students to sue U.S. Government for 10043 Visa Rejection* (Translation)](https://10043.org/en/notes/caijing_magzine)
 
 # Visa Refusal Stories
 

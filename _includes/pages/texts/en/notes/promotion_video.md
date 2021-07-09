@@ -2,7 +2,7 @@
  * @Author: WANG Maonan
  * @Date: 2021-07-09 11:30:49
  * @Description: 英文版, 宣传视频图解
- * @LastEditTime: 2021-07-09 11:46:05
+ * @LastEditTime: 2021-07-09 12:10:10
 -->
 
 We are a group of international students and scholars from China.
@@ -11,13 +11,13 @@ We are a group of international students and scholars from China.
     <img src="https://10043.org/assets/images/promotion_video/1.jpg" width="60%">
 </p>
 
-We have been working hard day and night, pursuing our academic dream, and chasing for the scientific truth. 
+We have been working hard day and night, pursuing our academic dreams, and chasing for the scientific truth. 
 
 <p align="center">
     <img src="https://10043.org/assets/images/promotion_video/2.jpg" width="60%">
 </p>
 
-We believe America is the place to realize our academic dream because of its openness and inclusiveness. 
+We believe America is the place to realize our academic dreams because of its openness and inclusiveness. 
 Each of us will never forget the moment we receive the offer letters from our dream school. 
 Behind the letters, there are years of diligence and supports from our family. 
 
