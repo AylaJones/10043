@@ -1,0 +1,22 @@
+<!--
+ * @Author: WANG Maonan
+ * @Date: 2021-07-06 19:41:43
+ * @Description: 宣传视频图解
+ * @LastEditTime: 2021-07-09 11:57:25
+-->
+
+<div class="container">
+    <div class="page-title">
+      <h1>{{ site.data.translations.notes.promotion_video.title[page.lang] }}</h1>
+    </div>
+</div>
+  
+ 
+<section class="section">
+<div class="container content is-size-5">
+    <div class="column is-8 is-offset-2">
+        {% capture promotion_video_text %}{% include pages/texts/{{ page.lang }}/notes/promotion_video.md %}{% endcapture %}
+        {{ promotion_video_text | markdownify }}
+    </div>
+</div>
+</section>
