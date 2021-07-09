@@ -4,7 +4,10 @@
  * @Description: 英文版的加入我们
  * @LastEditTime: 2021-07-06 15:55:52
 -->
-# Join US
+# Contact Us
+For more information, please contact us via [contact@10043.org](mailto:contact@10043.org)
+
+# Join Us
 <!-- **Joint-Letter Group**
 
 Contact us by email and you will be invited into our joint-letter group chat. 
